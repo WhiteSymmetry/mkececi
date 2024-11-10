@@ -23,6 +23,8 @@ Teorik bir fizikçi olmama rağmen, siteme neden "teknoloji" adını verdiğimi 
 
 Teorik fizik çalışmalarımın yanında, bilgisayar ve yazılım alanlarında da (öğretmenlik, yazılım geliştirme, web tasarımı) görev aldım. Bu tecrübeler bana teori ve teknolojinin birbirini nasıl tamamladığını açıkça gösterdi. İşte bu nedenle, sitemin adını "HiperTeknoloji" koydum.
 
+Admin ve Editör: MSc. Mehmet Keçeci, 2001
+
 ---
 **Why Hypertechnology?**  
 01.07.2001
@@ -36,6 +38,8 @@ Although I am a theoretical physicist, I can explain why I chose to name my site
 - If one falls short, the other will also suffer.
 
 In addition to my work in theoretical physics, I have been involved in the fields of computer science and software (working as a teacher, software developer, and web designer). These experiences have clearly shown me how theory and technology complement each other. This is why I named my site "HyperTechnology."
+
+Admin & Editor: MSc. Mehmet Keçeci, 2001
 
 ---
 
