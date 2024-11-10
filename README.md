@@ -1,3 +1,17 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhiteSymmetry&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WhiteSymmetry&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WhiteSymmetry&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WhiteSymmetry&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WhiteSymmetry&theme=2077&utcOffset=8)
+
+---
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/WhiteSymmetry/mkececi/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
