@@ -14,14 +14,6 @@
 
 ![Mehmet Keçeci's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteSymmetry&show_icons=true&theme=radical)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WhiteSymmetry&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WhiteSymmetry&theme=2077&utcOffset=8)
-
-
-
-
-[![Mehmet Keçeci's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WhiteSymmetry&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/WhiteSymmetry/WhiteSymmetry)
-
-
 [![Orcid](https://img.shields.io/badge/Orcid-12100E?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9937-9839)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-0077B5?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mehmet-Kececi)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-0077B5?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=PleXSXMAAAAJ&hl=en)
